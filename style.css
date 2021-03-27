@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-.photo { text-align: center;
+
+.photo {
+     text-align: center;
 }
+
 }
 .main {
     display: block;
@@ -118,7 +121,7 @@ li > label {
     font-size: 18px;
     width: 226px;
 }
-li >    input[type="text"] {
+li >  input[type="text"] {
     width: 226px;
 }
 li > button.delete:hover {
